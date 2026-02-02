@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Prajwal Patil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%7C+AI+Enthusiast;DSA+%26+Problem+Solving+Focused;Building+AI+Powered+Applications;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+(2023-2027);AI+%7C+Machine+Learning+Enthusiast;Problem+Solver+%7C+Future+Software+Engineer;Building+Smart+AI+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science & Engineering (2023 – 2027)**  
-🏫 **Parul University**  
-💡 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**  
-🧠 Strong interest in **DSA, real-world problem solving, and scalable systems**
+🎓 **B.Tech in Computer Science & Engineering**  
+🏫 **Parul University (2023 – 2027)**  
 
-I love building **intelligent systems** that solve practical problems and continuously improving my coding skills through projects and competitive programming.
+I am a **highly motivated Computer Science student** with a strong interest in  
+**Artificial Intelligence, Machine Learning, and Software Development**.
+
+💡 I enjoy building **real-world AI-based applications**, learning new technologies,  
+and strengthening my **problem-solving & coding skills**.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
 <p>
@@ -25,13 +27,11 @@ I love building **intelligent systems** that solve practical problems and contin
 </p>
 
 ### 📚 Libraries & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,tensorflow,pytorch" />
-</p>
-
 - NumPy, Pandas  
 - Matplotlib, Seaborn  
 - Scikit-learn, Joblib  
+- TensorFlow, PyTorch  
+- Flask, FastAPI  
 
 ### 🧰 Tools & Platforms
 <p>
@@ -47,24 +47,28 @@ I love building **intelligent systems** that solve practical problems and contin
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🧠 AI Smart Learning Platform
-🔹 Personalized learning system using **AI & ML**  
-🔹 Analyzes student behavior and performance  
-🔹 Recommends **courses, quizzes & real-time feedback**
+An intelligent **AI-powered learning system** that personalizes education.
 
-**Tech Used:**  
-`Python · Flask/Django · NumPy · Pandas · Scikit-learn · TensorFlow/PyTorch · React · HTML · CSS · JS`
+🔹 Analyzes student behavior & performance  
+🔹 Recommends personalized courses & quizzes  
+🔹 Provides real-time feedback  
+
+**Tech Stack:**  
+`Python · Flask/Django · NumPy · Pandas · Scikit-learn · TensorFlow · PyTorch · React · HTML · CSS · JavaScript`
 
 ---
 
 ### 🏥 AI Disease Diagnosis System
-🔹 Predicts diseases based on **user symptoms**  
-🔹 Uses trained **ML models** for accurate predictions  
-🔹 Provides **basic health recommendations**
+An intelligent healthcare system that predicts diseases using AI.
 
-**Tech Used:**  
+🔹 Takes symptoms as user input  
+🔹 Uses trained ML models  
+🔹 Provides disease prediction & health suggestions  
+
+**Tech Stack:**  
 `Python · Flask · NumPy · Pandas · Scikit-learn`
 
 ---
@@ -106,7 +110,7 @@ I love building **intelligent systems** that solve practical problems and contin
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/prajwal-patil-6a81a9383/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:prajwalpatil062008@gmail.com">
@@ -117,5 +121,5 @@ I love building **intelligent systems** that solve practical problems and contin
 ---
 
 <p align="center">
-  💡 <i>"Code. Learn. Build. Repeat."</i>
+  🚀 <i>"Learning, Building & Growing Every Day"</i>
 </p>
