@@ -1,141 +1,243 @@
-<h1 align="center">Hi 👋, I'm Prajwal Patil</h1>
+# Hi 👋, I'm Prajwal Patil
+
+<h3 align="center">AI/ML Engineer • LLM Engineer • Building Production AI Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+RAG+Systems+Builder;FastAPI+%7C+LangChain+%7C+Hugging+Face;Building+Real-World+AI+Applications;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;LLM+%26+RAG+Systems+Developer;FastAPI+%7C+LangChain+%7C+FAISS;Multi-LLM+Applications;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-🎓 **B.Tech CSE Student**  
-🏫 **Parul University (2023 – 2027)**  
+🎓 B.Tech Computer Science & Engineering
+🏫 Parul University (2023–2027)
 
-I am an **AI Engineer focused on building real-world intelligent systems** using  
-**LLMs, RAG pipelines, and scalable backend architectures**.
+I'm an **AI/ML Engineer** passionate about building intelligent software using modern AI technologies.
 
-💡 I specialize in:
-- Retrieval-Augmented Generation (RAG)
-- NLP & LLM-based applications  
-- Backend APIs using FastAPI  
-- AI-powered automation systems  
+I enjoy designing scalable AI systems powered by **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and production-ready backend architectures.
 
-🚀 I enjoy solving real-world problems by combining **AI + Software Engineering**.
+My interests include:
+
+* 🤖 Large Language Models
+* 🧠 Generative AI
+* 📚 Retrieval-Augmented Generation (RAG)
+* ⚡ FastAPI Backend Development
+* 🔍 Vector Databases
+* ☁️ AI Deployment & Docker
+* 🏗️ Scalable AI Applications
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,r,js" />
+## Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,js,r" />
 </p>
 
-### 🤖 AI / ML
-- TensorFlow  
-- PyTorch  
-- Scikit-learn  
-- Pandas, NumPy  
+---
 
-### 🧠 LLM & RAG
-- Hugging Face  
-- LangChain  
-- FAISS  
-- Prompt Engineering  
+## AI / Machine Learning
 
-### ⚙️ Backend
-- FastAPI  
-- REST APIs  
+* TensorFlow
+* PyTorch
+* Scikit-Learn
+* NumPy
+* Pandas
+* Neural Networks
+* Deep Learning
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+---
+
+## LLM Engineering
+
+* LangChain
+* Hugging Face
+* OpenAI API
+* Prompt Engineering
+* Embeddings
+* Vector Search
+* Retrieval-Augmented Generation (RAG)
+
+---
+
+## Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+* FastAPI
+* REST APIs
+* Celery
+* Redis
+
+---
+
+## Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-- Jupyter Notebook  
+---
+
+## Dev Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
+
+* Jupyter Notebook
+* Vercel
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 🧠 AI Smart Learning Platform
-An AI-powered system that personalizes student learning.
+## 🌍 LinguifAI — Multi-LLM Translation Platform
 
-🔹 Performance analysis using ML  
-🔹 Personalized course & quiz recommendations  
-🔹 Real-time tracking via FastAPI backend  
+Production-ready AI translation platform supporting multiple LLM providers.
 
-**Tech:**  
-`Python · TensorFlow · PyTorch · FastAPI · Pandas · NumPy`
+### Features
 
----
+* Multi-LLM Routing
+* OpenAI
+* Gemini
+* Groq
+* DeepSeek
+* Async FastAPI
+* Redis Queue
+* Celery Workers
+* Docker Deployment
+* PDF & DOCX Translation
 
-### 🏥 MediSense AI – RAG Medical Assistant
-A **Retrieval-Augmented Generation (RAG)** based healthcare assistant.
+**Tech**
 
-🔹 Context-aware medical query answering  
-🔹 Integrated Hugging Face LLMs with LangChain  
-🔹 Vector search using FAISS  
-🔹 Real-time backend with FastAPI  
-
-**Tech:**  
-`Python · FastAPI · Hugging Face · LangChain · FAISS`
-
----
-
-## 🏆 Achievements
-
-- 💡 Built real-world AI systems using RAG architecture  
-- 🧠 Strong understanding of LLM pipelines & NLP  
-- 🧩 Actively solving DSA problems (LeetCode)  
+`Python`
+`FastAPI`
+`Redis`
+`Celery`
+`Docker`
+`OpenAI`
+`Gemini`
+`Groq`
+`DeepSeek`
 
 ---
 
-## 📜 Certifications
+## 🏥 MediSense AI
 
-- ✅ Generative AI Certification  
-- ✅ AWS Cloud Certification  
-- ✅ AI Fundamentals  
+A production-ready Retrieval-Augmented Generation (RAG) healthcare assistant.
+
+### Features
+
+* Medical Question Answering
+* FAISS Vector Search
+* LangChain Pipelines
+* Hugging Face Models
+* FastAPI Backend
+* Context-aware Responses
+
+**Tech**
+
+`Python`
+`LangChain`
+`FAISS`
+`FastAPI`
+`Hugging Face`
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 AI Smart Learning Platform
+
+An intelligent education platform using Machine Learning and Deep Learning.
+
+### Features
+
+* Student Performance Prediction
+* Personalized Quiz Generation
+* Course Recommendation
+* Learning Analytics
+* FastAPI Backend
+* MongoDB Integration
+
+**Tech**
+
+`Python`
+`TensorFlow`
+`PyTorch`
+`FastAPI`
+`MongoDB`
+
+---
+
+# 🏆 Achievements
+
+* 🧠 Solved **300+ DSA problems** on LeetCode.
+* 🚀 Built production-ready AI applications.
+* 🤖 Hands-on experience with LLM pipelines.
+* 📚 Strong understanding of RAG architecture.
+* 💻 Active open-source contributor on GitHub.
+
+---
+
+# 📜 Certifications
+
+* ✅ Generative AI for All
+* ✅ IBM AI Fundamentals
+* ✅ AWS Cloud Certification
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRAJWAL-MAX-GLITCH&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRAJWAL-MAX-GLITCH&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAJWAL-MAX-GLITCH&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAJWAL-MAX-GLITCH&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAJWAL-MAX-GLITCH&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PRAJWAL-MAX-GLITCH&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/PRAJWAL-MAX-GLITCH">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/prajwal-patil-6a81a9383/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:prajwalpatil062008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+<p align="left">
+
+<a href="https://github.com/PRAJWAL-MAX-GLITCH">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prajwal-patil-6a81a9383/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:prajwalpatil062008@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-  🚀 <i>"Building Intelligent Systems with Real-World Impact"</i>
-</p>
+# 📊 Profile Views
+
+![](https://komarev.com/ghpvc/?username=PRAJWAL-MAX-GLITCH\&style=for-the-badge)
+
+---
+
+# 💡 Quote
+
+> **"Building intelligent systems that solve real-world problems with AI."**
+
+---
